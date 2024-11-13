@@ -38,7 +38,7 @@ export default function Contact() {
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
                                     Acme Inc, Street, State, Postal Code
                                 </div>
-                            </div>
+                            </div>z
 
                             <div className="flex items-center mt-4 text-gray-600">
                                 <svg
